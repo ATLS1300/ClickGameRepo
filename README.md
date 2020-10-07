@@ -12,8 +12,9 @@ Note: to do this, the onlcick() function is attached to  a TURTLE, not the SCREE
 <br>
 <br>
 <br>
-## The second largest heading
+**TIPS TO GET STARTED**
 
+This is our first bigger project! :D
 1. **Think about your game!** - Spend time _designing_ your game first. Consider the bubble movements, color schemes, and also the goal of the game. <b> Who is the game for? </b> Do you want high stress, high stakes? Then consider giving the bubble fast movements to challenge your player. Do you want something easy but satisfying? Then consider giving the bubble predictable movements. Do you want the user to click _in between_ a growing number of bubbles? Or click on a simple bubble and have it disappear? **Simple concepts are great!**
 1. **Code the bubble movement first** - This is the easier of the new elements. So think of the bubble movement, talk with your partner, and then get that to work BEFORE ADDING ANYTHING ELSE.
 1. **Code the click interaction outside of a function** - If you're struggling with functions, start here. Code the function task first, inside the while loop, so you can test to see if it does what you expect.
