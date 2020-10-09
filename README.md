@@ -6,7 +6,7 @@ Examples, snippets and start code for PC06!
 In this start code repo, I've given you tools to accomplish your goals, regardless of the level of difficulty you're going after. <br>
 <br>
 * **bubbleStart.py** - This code is different from the start code we've used before. This code that can be run! Please take the time to read the description and comments BEFORE you run the code! You are REQUIRED to modify certain parts of this code or you'll lose points. Please note where these areas in the code are BEFORE starting to code.<br>
-* **byeTurt.py** -  This is an example script to show you how you can create a turtle that _disappears when you click on it!_ 
+bubbleStart.py also shows you how you can create a turtle that _disappears when you click on it!_ 
 Note: to do this, the onlcick() function is attached to  a TURTLE, not the SCREEN (panel). You use onclick with the object you want to give the click interaction to. For screen clicks: ```panel.onclick()```, but for turtle clicks: ```turtName.onclick()```.<br>
 * **listTurtles.py** - This is an example script to show you how you can use <i> multiple turtles at once</i>! This is pretty advanced, and uses for loops and the new concept of list fuctions (```listname.append```) to add on elements to an empty list. Once you have turtles in a list, you can address them by the INDEX the same way you would a NAME. **For example:** ```myturt.color('red')``` will become ```turtList[idx].color('red')```. _Please read the comments carefully to understand how each use of the for loops changes with each activity._ We'll go over working with lists of turtles in class during Week 8 (Oct 12-16th).
 <br>
